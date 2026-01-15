@@ -1,0 +1,6 @@
+{
+  "name": "The Virtual Room",
+  "description": "Interactive 3D Cozy Hacker Room built with React & Three.js. Features professional-grade transform gizmos (Translate/Rotate/Scale), isometric aesthetics, and MLH-inspired workspace customization.",
+  "about": "The Virtual Room is a creative coding exploration into interactive 3D environments. Inspired by the lo-fi aesthetic and the hacker culture of Major League Hacking (MLH), this application provides a digital sanctuary where users can design their ultimate workstation. Using professional-grade Raycasting and TransformControls, the app allows for precise manipulation of 3D objects within a stylized isometric room.",
+  "requestFramePermissions": []
+}
